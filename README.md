@@ -1,7 +1,7 @@
 # Twitter data analysis
 Twitter data analysis - The Afghan Situation
 
-This repsitory contains code related to a research project about social media dynamics in the context on Twitter. During the Summer 2021, in the period of the Fall of Kabul and the American withdrawal of the troops from Afghanistan, I analyzed twitter data related to the afghan geopolitical situatio, to explore the main features that characterized the public discussion about one of the most relevant gepolitical events of the latest years. To do it, I went through text mining techniques, like Sentiment Analysis and Topi Modeling.
+This repsitory contains code related to a research project about social media dynamics in the context on Twitter. During the Summer 2021, in the period of the Fall of Kabul and the American withdrawal of the troops from Afghanistan, I analyzed twitter data related to the Afghan geopolitical situation, to explore the main features that characterized the public discussion about one of the most relevant gepolitical events of the latest years. To do it, I went through text mining techniques, like Sentiment Analysis and TopiC Modeling.
 
 **FILES DESCRIPTION**
 
@@ -18,4 +18,4 @@ In the three "afghanistan" csv files, you can file the IDs of the tweets that I 
 
 **sample_data.csv**
 
-Here you can find the IDs of the tweets that I sampled from my entire dataset to show you an exploratory and illustrative representation of the analysis done. 
+Here you can find the IDs of the tweets that I sampled from the whole dataset to show you an exploratory and illustrative representation of the analysis done. 
